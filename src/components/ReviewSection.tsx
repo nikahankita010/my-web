@@ -505,6 +505,7 @@ function getReviewsData(itemId: string): Review[] {
         date: '2024-01-08T10:15:00Z',
         isVerified: true,
         helpfulCount: 19,
+       }, 
        {
         id: '4',
         userName: 'Someone pokoknya',
@@ -513,7 +514,6 @@ function getReviewsData(itemId: string): Review[] {
         date: '2025-03-08T10:15:00Z',
         isVerified: true,
         helpfulCount: 0,
-      },
       },
     ],
   };
