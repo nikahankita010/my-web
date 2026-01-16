@@ -71,8 +71,8 @@ export const productsData: Record<string, ProductDetail> = {
     mainImage: 'https://images.pexels.com/photos/35699844/pexels-photo-35699844.jpeg',
     gallery: [
       'https://images.pexels.com/photos/35699844/pexels-photo-35699844.jpeg',
-      'https://images.pexels.com/photos/3962286/pexels-photo-3962286.jpeg?auto=compress&cs=tinysrgb&w=800',
-      'https://images.pexels.com/photos/5632679/pexels-photo-5632679.jpeg?auto=compress&cs=tinysrgb&w=800',
+      'https://images.pexels.com/photos/35701945/pexels-photo-35701945.jpeg',
+      'https://images.pexels.com/photos/35701946/pexels-photo-35701946.jpeg',
     ],
     gradient: 'from-cyan-500 to-blue-500',
     isLaunching: true,
