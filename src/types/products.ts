@@ -54,6 +54,7 @@ export const productsData: Record<string, ProductDetail> = {
       'Garam',
       'Bumbu pilihan',
       'Tanpa pengawet buatan',
+      'Bersertifikasi halal dan P-IRT',
     ],
     packaging: 'Kemasan plastik alumunium foil premium dengan seal rapat',
     weight: '100g',
