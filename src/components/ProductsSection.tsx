@@ -21,7 +21,7 @@ const products = [
     description: 'Produk premium dengan kualitas terbaik untuk kebutuhan Anda',
     price: 25000,
     originalPrice: 30000,
-    image: 'https://images.pexels.com/photos/1002543/pexels-photo-1002543.jpeg?auto=compress&cs=tinysrgb&w=800',
+    image: 'https://www.pexels.com/photo/35699844/',
     gradient: 'from-cyan-500 to-blue-500',
     rating: 4.9,
     discount: 15,
