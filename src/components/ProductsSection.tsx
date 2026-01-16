@@ -8,11 +8,11 @@ const products = [
     title: 'Tempe Kripik',
     description: 'Camilan renyah dari tempe pilihan dengan berbagai varian rasa',
     price: 10000,
-    originalPrice: 13000,
+    originalPrice: 1000,
     image: 'https://images.pexels.com/photos/4518610/pexels-photo-4518610.jpeg?auto=compress&cs=tinysrgb&w=800',
     gradient: 'from-purple-500 to-fuchsia-500',
     rating: 4.8,
-    discount: 20,
+    discount: 30,
     isLaunching: true,
   },
   {
