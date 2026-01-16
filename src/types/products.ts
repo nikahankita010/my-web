@@ -78,9 +78,9 @@ export const productsData: Record<string, ProductDetail> = {
     isLaunching: true,
     discountPercent: 15,
     variants: [
-      { name: 'Ukuran', value: 'Small (250ml)' },
-      { name: 'Ukuran', value: 'Medium (500ml)' },
-      { name: 'Ukuran', value: 'Large (1L)' },
+      { name: 'Ukuran', value: 'Small (100g)' },
+      { name: 'Ukuran', value: 'Medium (200g)' },
+      { name: 'Ukuran', value: 'Large (250g)' },
     ],
     ingredients: [
       'Bahan alami pilihan',
