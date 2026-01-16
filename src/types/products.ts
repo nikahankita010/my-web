@@ -83,9 +83,9 @@ export const productsData: Record<string, ProductDetail> = {
       { name: 'Ukuran', value: 'Large (250g)' },
     ],
     ingredients: [
-      'Bahan alami pilihan',
+      'Bahan ketela alami pilihan',
       'Tanpa bahan kimia berbahaya',
-      'Organik bersertifikat',
+      'Produk bersertifikasi halal dan P-IRT',
       'Proses tradisional',
     ],
     packaging: 'Plastik alumunium foil premium',
