@@ -33,7 +33,7 @@ export const productsData: Record<string, ProductDetail> = {
     description: 'Camilan renyah dari tempe pilihan dengan berbagai varian rasa',
     fullDescription:
       'Tempe Kripik kami adalah camilan yang dibuat dari tempe premium yang dipilih dengan teliti, kemudian digoreng hingga renyah sempurna. Setiap gigitan memberikan tekstur yang krispy dan rasa yang lezat. Produk kami tidak menggunakan pengawet buatan dan ramah lingkungan. Tersedia dalam berbagai pilihan rasa yang menggugah selera.',
-    mainImage: 'https://images.pexels.com/photos/4518610/pexels-photo-4518610.jpeg?auto=compress&cs=tinysrgb&w=800',
+    mainImage: 'https://images.pexels.com/photos/35699585/pexels-photo-35699585.jpeg',
     gallery: [
       'https://images.pexels.com/photos/4518610/pexels-photo-4518610.jpeg?auto=compress&cs=tinysrgb&w=800',
       'https://images.pexels.com/photos/5632656/pexels-photo-5632656.jpeg?auto=compress&cs=tinysrgb&w=800',
