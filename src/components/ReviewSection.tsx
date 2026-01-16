@@ -415,7 +415,7 @@ function getReviewsData(itemId: string): Review[] {
       },
       {
         id: '3',
-        userName: 'Dimas Ardiananta',
+        userName: 'marsell setiawan',
         rating: 5,
         comment: 'Awalnya cuma punya gambaran dikit..... tapi hasil akhirnya malah di atas ekspektasi. Warna, layout, sampe feel designnya dapet bgt.',
         date: '2023-12-02T16:20:00Z',
