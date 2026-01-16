@@ -9,7 +9,7 @@ const products = [
     description: 'Camilan renyah dari tempe pilihan dengan berbagai varian rasa',
     price: 10000,
     originalPrice: 1000,
-    image: 'https://drive.google.com/file/d/1H_jflx0LymHe4ggzxc8c-n96fWwiUFZp/view?usp=drive_link',
+    image: 'https://images.pexels.com/photos/35699585/pexels-photo-35699585.jpeg',
     gradient: 'from-purple-500 to-fuchsia-500',
     rating: 4.8,
     discount: 30,
