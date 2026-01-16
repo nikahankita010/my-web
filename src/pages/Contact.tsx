@@ -178,7 +178,7 @@ export default function Contact() {
                 Masar90
               </p>
               <p className="text-lg text-gray-700 leading-relaxed">
-                Indonesia
+                Jl. Hasanuddin RT 01 RW 01, Desa Slambur, Kecamatan Geger, Kabupaten Madiun, Provinsi Jawa Timur, Indonesia
               </p>
               <p className="text-gray-600 italic">
                 Lokasi detail dapat dikirimkan melalui WhatsApp atau email sesuai kebutuhan Anda.
