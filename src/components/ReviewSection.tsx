@@ -287,6 +287,15 @@ function getReviewsData(itemId: string): Review[] {
         isVerified: true,
         helpfulCount: 9,
       },
+       {
+        id: '5',
+        userName: 'Naila farhana',
+        rating: 5,
+        comment: 'berbentuk kotak dan renyah, jarang tempe se renyah dan sekriuk ini, harus cobain teman-teman!',
+        date: '2024-01-03T16:45:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+      },
     ],
     sermier: [
       {
