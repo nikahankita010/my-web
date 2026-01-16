@@ -154,7 +154,7 @@ export default function About() {
               whileTap={{ scale: 0.95 }}
               className="inline-block px-8 py-3 rounded-xl font-semibold bg-white text-purple-600 hover:bg-gray-100 transition-colors"
             >
-              Hubungi Kami via email, instagram, atau whatsapp
+              Hubungi Kami via Email, Instagram, atau Whatsapp
             </motion.a>
           </motion.div>
         </div>
