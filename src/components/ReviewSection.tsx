@@ -130,7 +130,7 @@ export default function ReviewSection({
                 ))}
               </div>
 
-              <p>
+              <p className="text-gray-600 font-semibold">
                 {totalReviews} Rincian Ulasan 
               </p>
             </div>
