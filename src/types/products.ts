@@ -67,7 +67,7 @@ export const productsData: Record<string, ProductDetail> = {
     rating: 4.9,
     description: 'Produk premium dengan kualitas terbaik untuk kebutuhan Anda',
     fullDescription:
-      'Sermier adalah produk premium hasil penelitian dan pengembangan yang matang. Dibuat dengan bahan-bahan pilihan berkualitas tinggi, produk ini dirancang untuk memberikan manfaat maksimal. Setiap detail produksi diperhatikan dengan cermat untuk memastikan kualitas terbaik sampai ke tangan Anda.',
+      'Sermier adalah produk premium hasil penelitian dan pengembangan yang matang. Dibuat dari bahan ketela pilihan berkualitas tinggi, produk ini dirancang untuk memberikan manfaat maksimal. Setiap detail produksi diperhatikan dengan cermat untuk memastikan kualitas terbaik sampai ke tangan Anda.',
     mainImage: 'https://images.pexels.com/photos/35699844/pexels-photo-35699844.jpeg',
     gallery: [
       'https://images.pexels.com/photos/35699844/pexels-photo-35699844.jpeg',
