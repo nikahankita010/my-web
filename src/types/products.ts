@@ -62,8 +62,8 @@ export const productsData: Record<string, ProductDetail> = {
   sermier: {
     id: 'sermier',
     name: 'Sermier',
-    price: 25000,
-    originalPrice: 30000,
+    price: 6000,
+    originalPrice: 20000,
     rating: 4.9,
     description: 'Produk premium dengan kualitas terbaik untuk kebutuhan Anda',
     fullDescription:
@@ -76,7 +76,7 @@ export const productsData: Record<string, ProductDetail> = {
     ],
     gradient: 'from-cyan-500 to-blue-500',
     isLaunching: true,
-    discountPercent: 15,
+    discountPercent: 30,
     variants: [
       { name: 'Ukuran', value: 'Small (100g)' },
       { name: 'Ukuran', value: 'Medium (200g)' },
