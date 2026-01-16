@@ -4,6 +4,7 @@ import { ArrowLeft, ShoppingCart, Star, Zap, Flame } from 'lucide-react';
 import { useState } from 'react';
 import { productsData } from '../types/products';
 import { useCart } from '../context/CartContext';
+import ReviewSection from '../components/ReviewSection';
 
 export default function ProductDetail() {
   const { id } = useParams();
@@ -320,6 +321,14 @@ export default function ProductDetail() {
               </div>
             </motion.div>
           </div>
+
+          <ReviewSection
+            type="product"
+            itemId={product.id}
+            itemName={product.name}
+            averageRating={product.rating}
+            totalReviews={Math.floor(Math.random() * 100) + 50}
+          />
         </div>
       </div>
     </div>

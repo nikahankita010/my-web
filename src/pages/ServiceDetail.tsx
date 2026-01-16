@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { useParams, Link } from 'react-router-dom';
 import { ArrowLeft, MessageCircle, Check, Users, Clock } from 'lucide-react';
 import { servicesData } from '../types/services';
+import ReviewSection from '../components/ReviewSection';
 
 export default function ServiceDetail() {
   const { id } = useParams();
@@ -247,6 +248,19 @@ export default function ServiceDetail() {
               >
                 Konsultasi Gratis
               </motion.button>
+            </motion.div>
+
+            <motion.div
+              variants={itemVariants}
+              className="mt-16"
+            >
+              <ReviewSection
+                type="service"
+                itemId={service.id}
+                itemName={service.name}
+                averageRating={4.9}
+                totalReviews={Math.floor(Math.random() * 80) + 40}
+              />
             </motion.div>
           </motion.div>
         </div>
