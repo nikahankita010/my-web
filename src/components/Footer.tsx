@@ -119,7 +119,7 @@ export default function Footer() {
           >
             <MapPin className="w-5 h-5 mx-auto mb-2 text-purple-400" />
             <p className="text-gray-300 font-medium mb-1">Lokasi</p>
-            <p className="text-gray-400 text-sm">Jl. Hasanuddin RT 01 RW 01-Desa Slambur-Kecamatan Geger-Kabupaten Madiun-Provinsi Jawa Timur-Indonesia</p>
+            <p className="text-gray-400 text-sm">Jl. Hasanuddin RT 01 RW 01,Desa Slambur,Kecamatan Geger,Kabupaten Madiun,Provinsi Jawa Timur,Indonesia</p>
           </motion.div>
         </div>
 
