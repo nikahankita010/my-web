@@ -485,7 +485,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Content writing untuk blog website saya sangat berkualitas! SEO-friendly dan engaging. Traffic naik signifikan!',
         date: '2024-01-14T12:00:00Z',
         isVerified: true,
-        helpfulCount: 44,
+        helpfulCount: 24,
         isFeatured: true,
       },
       {
@@ -495,7 +495,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Copywriting untuk landing page kami excellent! Conversion rate meningkat 30%. Highly recommended!',
         date: '2024-01-11T16:30:00Z',
         isVerified: true,
-        helpfulCount: 33,
+        helpfulCount: 13,
       },
       {
         id: '3',
@@ -504,7 +504,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Penulis sangat memahami brand voice kami. Content konsisten dan berkualitas tinggi.',
         date: '2024-01-08T10:15:00Z',
         isVerified: true,
-        helpfulCount: 19,
+        helpfulCount: 9,
        }, 
        {
         id: '4',
