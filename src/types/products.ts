@@ -90,7 +90,7 @@ export const productsData: Record<string, ProductDetail> = {
     ],
     packaging: 'Plastik alumunium foil premium',
     weight: '200g (standard)',
-    shelf_life: '1 bulan',
+    shelf_life: '2 bulan',
   },
   kopi_bubuk: {
     id: 'kopi_bubuk',
