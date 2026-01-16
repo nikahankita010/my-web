@@ -131,7 +131,7 @@ export default function ReviewSection({
               </div>
 
               <p className="text-gray-600 font-semibold">
-                {totalReviews} Rincian Ulasan 
+                Rincian Ulasan 
               </p>
             </div>
 
