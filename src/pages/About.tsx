@@ -34,7 +34,7 @@ export default function About() {
   const highlights = [
     { number: '2022', label: 'Sejak Tahun', icon: '🚀' },
     { number: '500+', label: 'Pelanggan Puas', icon: '👥' },
-    { number: '100%', label: 'Komitmen Kualitas', icon: '✨' },
+    { number: '99%', label: 'Komitmen Kualitas', icon: '✨' },
   ];
 
   return (
