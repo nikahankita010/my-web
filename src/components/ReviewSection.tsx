@@ -440,7 +440,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Ustadz sangat sabar dan metode mengajarnya mudah dipahami. Dalam 3 bulan saya sudah bisa percakapan dasar!',
         date: '2024-01-14T09:00:00Z',
         isVerified: true,
-        helpfulCount: 48,
+        helpfulCount: 8,
         isFeatured: true,
       },
       {
@@ -450,7 +450,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Jadwal fleksibel dan materi terstruktur dengan baik. Sangat membantu untuk persiapan kuliah di Mesir.',
         date: '2024-01-11T13:30:00Z',
         isVerified: true,
-        helpfulCount: 32,
+        helpfulCount: 2,
       },
       {
         id: '3',
@@ -459,7 +459,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Belajar bahasa Arab jadi menyenangkan! Pengajar native dan sangat berpengalaman.',
         date: '2024-01-08T15:45:00Z',
         isVerified: true,
-        helpfulCount: 21,
+        helpfulCount: 1,
       },
     ],
     konseling: [
@@ -470,7 +470,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Konselor sangat profesional dan empati. Saya merasa didengar dan mendapat dukungan yang saya butuhkan. Terima kasih!',
         date: '2024-01-15T11:00:00Z',
         isVerified: true,
-        helpfulCount: 56,
+        helpfulCount: 6,
         isFeatured: true,
       },
       {
@@ -480,7 +480,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Layanan konseling yang sangat membantu. Ruang aman untuk berbagi dan mendapat perspektif baru.',
         date: '2024-01-12T10:30:00Z',
         isVerified: true,
-        helpfulCount: 41,
+        helpfulCount: 1,
       },
       {
         id: '3',
@@ -489,7 +489,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Terima kasih atas dukungannya. Konselor memberikan tools yang praktis untuk mengelola stres.',
         date: '2024-01-09T14:00:00Z',
         isVerified: true,
-        helpfulCount: 28,
+        helpfulCount: 0,
       },
     ],
     olah_data: [
@@ -500,7 +500,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Analisis data untuk riset disertasi saya dikerjakan dengan sangat profesional. Hasil akurat dan dokumentasi lengkap!',
         date: '2024-01-13T15:00:00Z',
         isVerified: true,
-        helpfulCount: 39,
+        helpfulCount: 9,
         isFeatured: true,
       },
       {
@@ -510,7 +510,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Tim sangat memahami kebutuhan research saya. Visualisasi data juga sangat membantu presentasi.',
         date: '2024-01-10T11:30:00Z',
         isVerified: true,
-        helpfulCount: 25,
+        helpfulCount: 5,
       },
       {
         id: '3',
@@ -519,7 +519,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Pengolahan data cepat dan hasil memuaskan. Komunikasi bisa lebih ditingkatkan.',
         date: '2024-01-07T09:45:00Z',
         isVerified: true,
-        helpfulCount: 12,
+        helpfulCount: 2,
       },
     ],
     penulis_kreatif: [
@@ -530,7 +530,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Content writing untuk blog website saya sangat berkualitas! SEO-friendly dan engaging. Traffic naik signifikan!',
         date: '2024-01-14T12:00:00Z',
         isVerified: true,
-        helpfulCount: 24,
+        helpfulCount: 14,
         isFeatured: true,
       },
       {
@@ -540,7 +540,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Copywriting untuk landing page kami excellent! Conversion rate meningkat 30%. Highly recommended!',
         date: '2024-01-11T16:30:00Z',
         isVerified: true,
-        helpfulCount: 13,
+        helpfulCount: 10,
       },
       {
         id: '3',
