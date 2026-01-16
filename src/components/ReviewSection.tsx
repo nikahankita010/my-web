@@ -374,7 +374,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Desain logo untuk bisnis saya keren banget! Tim sangat profesional dan revisi cepat. Highly recommended!',
         date: '2024-01-13T14:30:00Z',
         isVerified: true,
-        helpfulCount: 5,
+        helpfulCount: 8,
         isFeatured: true,
       },
       {
