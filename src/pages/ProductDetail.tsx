@@ -156,7 +156,7 @@ export default function ProductDetail() {
                   ))}
                 </div>
                 <span className="text-gray-700 font-semibold">
-                  {product.rating} ({Math.floor(Math.random() * 400) + 10} dibeli)
+                  {product.rating} ({Math.floor(Math.random() * 300) + 10} dibeli)
                 </span>
               </div>
 
