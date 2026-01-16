@@ -155,6 +155,7 @@ export default function About() {
               className="inline-block px-8 py-3 rounded-xl font-semibold bg-white text-purple-600 hover:bg-gray-100 transition-colors"
             >
               Hubungi Kami Sekarang
+             href: 'mailto:officialmasar90@gmail.com',
             </motion.a>
           </motion.div>
         </div>
