@@ -88,8 +88,8 @@ export const productsData: Record<string, ProductDetail> = {
       'Organik bersertifikat',
       'Proses tradisional',
     ],
-    packaging: 'Botol kaca tebal dengan tutup premium',
-    weight: '500ml (standard)',
+    packaging: 'Plastik alumunium foil premium',
+    weight: '200g (standard)',
     shelf_life: '12 bulan',
   },
   kopi_bubuk: {
