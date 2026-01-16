@@ -505,6 +505,15 @@ function getReviewsData(itemId: string): Review[] {
         date: '2024-01-08T10:15:00Z',
         isVerified: true,
         helpfulCount: 19,
+       {
+        id: '4',
+        userName: 'Someone pokoknya',
+        rating: 5,
+        comment: 'diluar ekspektasi, alhamdulillah makasih tugas mklah sy jadi lancar dan mendapat sanjungan dari dosen katanya hampir sempurna kaya ai tapi bukan ai. pokok begitulah dan dibonusin free ppt lagi, pokoknya joss workernya.',
+        date: '2025-03-08T10:15:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+      },
       },
     ],
   };
