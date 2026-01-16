@@ -395,6 +395,15 @@ function getReviewsData(itemId: string): Review[] {
         isVerified: true,
         helpfulCount: 14,
       },
+     {
+        id: '3',
+        userName: 'Farhan Asyari',
+        rating: 5,
+        comment: 'Jujur sy suka hsil designya. Dari awal diskusi udh kelihatan niat dan ngerti maunya client. Desainya ga pasaran, modern, dan detail kecilnya diperhatiin bgt..',
+        date: '2023-12-05T16:20:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+    },
     ],
     bahasa_arab: [
       {
