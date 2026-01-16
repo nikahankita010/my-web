@@ -27,8 +27,8 @@ export const productsData: Record<string, ProductDetail> = {
   tempe_kripik: {
     id: 'tempe_kripik',
     name: 'Tempe Kripik',
-    price: 15000,
-    originalPrice: 18000,
+    price: 5000,
+    originalPrice: 20000,
     rating: 4.8,
     description: 'Camilan renyah dari tempe pilihan dengan berbagai varian rasa',
     fullDescription:
@@ -41,7 +41,7 @@ export const productsData: Record<string, ProductDetail> = {
     ],
     gradient: 'from-purple-500 to-fuchsia-500',
     isLaunching: true,
-    discountPercent: 20,
+    discountPercent: 25,
     variants: [
       { name: 'Rasa', value: 'Original' },
       { name: 'Rasa', value: 'Pedas' },
