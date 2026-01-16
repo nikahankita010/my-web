@@ -422,6 +422,15 @@ function getReviewsData(itemId: string): Review[] {
         isVerified: true,
         helpfulCount: 0,
       },
+      {
+        id: '3',
+        userName: 'Dimas Ardiananta',
+        rating: 4,
+        comment: 'Overall puas sih. Designnya eye-catching, keliatan profesional, dan punya ciri khas sendiri. Bakal repeat order kalo butuh lagi. sementara bintang 4 dulu',
+        date: '2023-11-28T16:20:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+      },
       ],
     bahasa_arab: [
       {
