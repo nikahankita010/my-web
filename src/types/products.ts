@@ -55,9 +55,9 @@ export const productsData: Record<string, ProductDetail> = {
       'Bumbu pilihan',
       'Tanpa pengawet buatan',
     ],
-    packaging: 'Kemasan plastik premium dengan seal rapat',
-    weight: '250g',
-    shelf_life: '30 hari dari tanggal produksi',
+    packaging: 'Kemasan plastik alumunium foil premium dengan seal rapat',
+    weight: '100g',
+    shelf_life: '2 bulan',
   },
   sermier: {
     id: 'sermier',
