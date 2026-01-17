@@ -262,7 +262,7 @@ function getReviewsData(itemId: string): Review[] {
       },
       {
         id: '2',
-        userName: 'Budi Santoso',
+        userName: 'Apriliya mitha',
         rating: 5,
         comment: 'Packaging rapi, rasa original-nya mantap. Cocok buat camilan sehat keluarga.',
         date: '2023-12-08T14:20:00Z',
