@@ -431,6 +431,24 @@ function getReviewsData(itemId: string): Review[] {
         isVerified: true,
         helpfulCount: 0,
       },
+      {
+        id: '7',
+        userName: 'Ayu kurniawati',
+        rating: 5,
+        comment: 'Awalnya cuma kasih gambaran kasar, tapi hasil desainnya bisa nyesuaiin banget sama yang aku mau. Detailnya rapi dan kelihatan niat, bukan desain asal jadi. Komunikasinya juga enak, jadi nggak capek bolak-balik revisi.',
+        date: '2023-11-28T16:20:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+      },
+      {
+        id: '8',
+        userName: 'Nabila Maysaroh',
+        rating: 5,
+        comment: 'aaaaaaaaaaa Desainnya keliatan clean dan modern banget huu, cocok buat kebutuhan branding UMKM saya... Overall puas banget. Trim ksih.',
+        date: '2023-11-28T16:20:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+      },
       ],
     bahasa_arab: [
       {
