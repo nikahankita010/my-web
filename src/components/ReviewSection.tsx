@@ -276,7 +276,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Enak, tapi kalau bisa varian pedasnya lebih pedas lagi ya. Overall recommended!',
         date: '2023-04-05T09:15:00Z',
         isVerified: false,
-        helpfulCount: 12,
+        helpfulCount: 2,
       },
       {
         id: '4',
