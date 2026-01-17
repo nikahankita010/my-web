@@ -252,7 +252,7 @@ function getReviewsData(itemId: string): Review[] {
     tempe_kripik: [
       {
         id: '1',
-        userName: 'Siti Nurhaliza',
+        userName: 'Siti Maulidiyah',
         rating: 5,
         comment: 'Tempe kripiknya enak banget! Renyah dan bumbunya pas. Anak-anak saya suka sekali. Pasti order lagi!',
         date: '2024-01-10T10:30:00Z',
