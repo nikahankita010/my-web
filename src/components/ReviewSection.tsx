@@ -405,7 +405,7 @@ function getReviewsData(itemId: string): Review[] {
         helpfulCount: 0,
       },
       {
-        id: '3',
+        id: '4',
         userName: 'Anisa nur hamida',
         rating: 5,
         comment: 'Designnya keren, clean, dan sesuai brief. Revisi cepet, komunikasinya enak, ga ribet, dan selalu kasih solusi yg masuk akal.',
@@ -414,7 +414,7 @@ function getReviewsData(itemId: string): Review[] {
         helpfulCount: 0,
       },
       {
-        id: '3',
+        id: '5',
         userName: 'marsell setiawan',
         rating: 5,
         comment: 'Awalnya cuma punya gambaran dikit..... tapi hasil akhirnya malah di atas ekspektasi. Warna, layout, sampe feel designnya dapet bgt.',
@@ -423,7 +423,7 @@ function getReviewsData(itemId: string): Review[] {
         helpfulCount: 0,
       },
       {
-        id: '3',
+        id: '6',
         userName: 'Dimas Ardiananta',
         rating: 4,
         comment: 'Overall puas sih. Designnya eye-catching, keliatan profesional, dan punya ciri khas sendiri. Bakal repeat order kalo butuh lagi. sementara bintang 4 dulu',
