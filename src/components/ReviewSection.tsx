@@ -321,7 +321,7 @@ function getReviewsData(itemId: string): Review[] {
         id: '3',
         userName: 'Savira Kusuma ningtyas',
         rating: 4,
-        comment: 'Bagus, tapi kalau harga bisa lebih murah lagi pasti lebih banyak yang beli.',
+        comment: 'Enak dan renyah sihh, tapi kalau harga bisa lebih murah lagi pasti lebih banyak yang beli. kurang hoki beli pas gak promo tp pengin',
         date: '2023-01-06T10:20:00Z',
         isVerified: false,
         helpfulCount: 8,
