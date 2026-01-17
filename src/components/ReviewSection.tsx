@@ -282,7 +282,7 @@ function getReviewsData(itemId: string): Review[] {
         id: '4',
         userName: 'Rizki Pratama',
         rating: 5,
-        comment: 'Teksturnya kriuk-kriuk perfect! Varian garlic favorit saya. Must try!',
+        comment: 'Teksturnya kriuk-kriuk perfect! Varian bbq favorit saya. Must try!',
         date: '2023-05-03T16:45:00Z',
         isVerified: true,
         helpfulCount: 9,
