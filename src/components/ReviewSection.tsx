@@ -291,7 +291,7 @@ function getReviewsData(itemId: string): Review[] {
         id: '5',
         userName: 'Naila farhana',
         rating: 5,
-        comment: 'berbentuk kotak dan renyah, jarang tempe se renyah dan sekriuk ini, harus cobain teman-teman!',
+        comment: 'berbentuk landscape dan renyah wkwk, jarang tempe se renyah dan sekriuk ini, harus cobain teman-teman!',
         date: '2023-04-04T16:45:00Z',
         isVerified: true,
         helpfulCount: 0,
