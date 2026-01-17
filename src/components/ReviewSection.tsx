@@ -302,7 +302,7 @@ function getReviewsData(itemId: string): Review[] {
         id: '1',
         userName: 'Dewi Kartika',
         rating: 5,
-        comment: 'Produk premium yang benar-benar berkualitas. Packaging mewah dan kualitas terjaga. Sangat puas!',
+        comment: 'Produk UMKM premium yang benar-benar berkualitas. Packaging mewah dan kualitas terjaga. jangan tanya rasanya, buktikan sendiri man temannn... Sangat puas!',
         date: '2024-01-12T11:00:00Z',
         isVerified: true,
         helpfulCount: 31,
