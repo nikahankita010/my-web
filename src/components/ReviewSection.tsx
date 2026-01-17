@@ -312,7 +312,7 @@ function getReviewsData(itemId: string): Review[] {
         id: '2',
         userName: 'Ahmad Fauzi',
         rating: 5,
-        comment: 'Worth it banget! Kualitas sebanding dengan harga. Highly recommended.',
+        comment: 'Worth it banget! Kualitas sebanding dengan harga. emang rasa produk umkm diluar nurull.... Highly recommended.',
         date: '2023-11-09T15:30:00Z',
         isVerified: true,
         helpfulCount: 22,
