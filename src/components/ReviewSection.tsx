@@ -257,7 +257,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Tempe kripiknya enak banget! Renyah dan bumbunya pas. Anak-anak saya suka sekali. Pasti order lagi!',
         date: '2024-01-10T10:30:00Z',
         isVerified: true,
-        helpfulCount: 24,
+        helpfulCount: 12,
         isFeatured: true,
       },
       {
@@ -294,7 +294,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'berbentuk landscape dan renyah wkwk, jarang tempe se renyah dan sekriuk ini, harus cobain teman-teman!',
         date: '2023-04-04T16:45:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 10,
       },
     ],
     sermier: [
@@ -333,7 +333,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Teksturnya kriuk dan rasanya ringan, nggak bikin seret di mulut. Bumbunya pas dan nggak berlebihan. Cocok buat ngemil lama. Rasanya gurih alami dan nggak bikin cepat bosan. Cocok buat semua umur.',
         date: '2025-02-06T10:20:00Z',
         isVerified: false,
-        helpfulCount: 2,
+        helpfulCount: 12,
       },
             {
         id: '5',
@@ -342,7 +342,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Camilan simpel tapi rasanya dapet. Cocok buat stok di rumah.Kriuknya mantap dan rasanya bikin pengen repeat order.',
         date: '2025-11-03T10:20:00Z',
         isVerified: false,
-        helpfulCount: 0,
+        helpfulCount: 9,
       },
     ],
     kopi_bubuk: [
@@ -353,7 +353,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Kopi terbaik yang pernah saya coba! Aroma kuat dan rasa yang kompleks. Perfect untuk espresso.',
         date: '2023-01-11T08:00:00Z',
         isVerified: true,
-        helpfulCount: 42,
+        helpfulCount: 12,
         isFeatured: true,
       },
       {
@@ -363,7 +363,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Sebagai coffee lover, saya sangat rekomen produk ini. Freshly roasted dan packaging vakum mantap.',
         date: '2023-01-17T13:45:00Z',
         isVerified: true,
-        helpfulCount: 28,
+        helpfulCount: 18,
       },
       {
         id: '3',
@@ -438,7 +438,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Awalnya cuma punya gambaran dikit..... tapi hasil akhirnya malah di atas ekspektasi. Warna, layout, sampe feel designnya dapet bgt.',
         date: '2023-12-02T16:20:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 2,
       },
       {
         id: '6',
@@ -447,7 +447,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Overall puas sih. Designnya eye-catching, keliatan profesional, dan punya ciri khas sendiri. Bakal repeat order kalo butuh lagi. sementara bintang 4 dulu',
         date: '2023-11-28T16:20:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 3,
       },
       {
         id: '7',
@@ -456,7 +456,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Awalnya cuma kasih gambaran kasar, tapi hasil desainnya bisa nyesuaiin banget sama yang aku mau. Detailnya rapi dan kelihatan niat, bukan desain asal jadi. Komunikasinya juga enak, jadi nggak capek bolak-balik revisi.',
         date: '2023-07-08T16:20:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 1,
       },
       {
         id: '8',
@@ -465,7 +465,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Aaaaaaaaaaa desainnya keliatan clean dan modern banget huu, cocok buat kebutuhan branding UMKM saya... Overall puas banget. Trim ksih.',
         date: '2024-10-20T16:20:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 2,
       },
       ],
     bahasa_arab: [
@@ -513,7 +513,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Tutor sabar dan mau ngulang penjelasan kalau belum paham. Belajarnya jadi lebih enjoy.',
         date: '2025-02-21T15:45:00Z',
         isVerified: true,
-        helpfulCount: 1,
+        helpfulCount: 3,
       },
            {
         id: '6',
@@ -531,7 +531,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Belajarnya nggak ngebosenin dan suasananya friendly. Recommended buat yang mau serius tapi santai.',
         date: '2025-08-10T15:45:00Z',
         isVerified: true,
-        helpfulCount: 1,
+        helpfulCount: 2,
       },
     ],
     konseling: [
@@ -561,7 +561,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Terima kasih atas dukungannya. Konselor memberikan tools yang praktis untuk mengelola stres.',
         date: '2024-01-09T14:00:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 2,
       },
             {
         id: '4',
@@ -597,7 +597,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Saran yang dikasih realistis dan bisa langsung dipraktekin. Nggak cuma teori doang.',
         date: '2025-02-22T10:30:00Z',
         isVerified: true,
-        helpfulCount: 1,
+        helpfulCount: 4,
       },
             {
         id: '8',
@@ -617,7 +617,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'Analisis data untuk riset disertasi saya dikerjakan dengan sangat profesional. Hasil akurat dan dokumentasi lengkap!',
         date: '2025-03-13T15:00:00Z',
         isVerified: true,
-        helpfulCount: 9,
+        helpfulCount: 7,
         isFeatured: true,
       },
       {
@@ -645,7 +645,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'alhamdulillaaaaah terbantu, karena awalnya data yang aku olah tidak normal lalu aku kirimkan ke admin dan kemudiaan data aku diolah dengan rapi dan logis. Cocok buat yang nggak mau pusing ngurus angka dan tabel atau tidak menemukan jalan keluar wkwk.Worth it banget buat yang butuh hasil cepat dan akurat.',
         date: '2025-04-09T09:45:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 4,
       },
     ],
     penulis_kreatif: [
@@ -684,7 +684,7 @@ function getReviewsData(itemId: string): Review[] {
         comment: 'diluar ekspektasi, alhamdulillah makasih tugas mklah sy jadi lancar dan mendapat sanjungan dari dosen katanya hampir sempurna kaya ai tapi bukan ai. pokok begitulah dan dibonusin free ppt lagi, pokoknya joss workernya.',
         date: '2025-03-08T10:15:00Z',
         isVerified: true,
-        helpfulCount: 0,
+        helpfulCount: 1,
       },
     ],
   };
