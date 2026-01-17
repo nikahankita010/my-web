@@ -444,7 +444,7 @@ function getReviewsData(itemId: string): Review[] {
         id: '8',
         userName: 'Nabila Maysaroh',
         rating: 5,
-        comment: 'aaaaaaaaaaa Desainnya keliatan clean dan modern banget huu, cocok buat kebutuhan branding UMKM saya... Overall puas banget. Trim ksih.',
+        comment: 'Aaaaaaaaaaa desainnya keliatan clean dan modern banget huu, cocok buat kebutuhan branding UMKM saya... Overall puas banget. Trim ksih.',
         date: '2023-11-28T16:20:00Z',
         isVerified: true,
         helpfulCount: 0,
