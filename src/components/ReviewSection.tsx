@@ -620,6 +620,15 @@ function getReviewsData(itemId: string): Review[] {
         isVerified: true,
         helpfulCount: 2,
       },
+            {
+        id: '4',
+        userName: 'Alamsyah Al-amin',
+        rating: 5,
+        comment: 'alhamdulillaaaaah terbantu, karena awalnya data yang aku olah tidak normal lalu aku kirimkan ke admin dan kemudiaan data aku diolah dengan rapi dan logis. Cocok buat yang nggak mau pusing ngurus angka dan tabel atau tidak menemukan jalan keluar wkwk.Worth it banget buat yang butuh hasil cepat dan akurat.',
+        date: '2025-04-09T09:45:00Z',
+        isVerified: true,
+        helpfulCount: 0,
+      },
     ],
     penulis_kreatif: [
       {
