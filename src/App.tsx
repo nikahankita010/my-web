@@ -6,6 +6,8 @@ import ProductDetail from './pages/ProductDetail';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Checkout from './pages/Checkout';
+import Articles from './pages/Articles';
+import ArticleDetail from './pages/ArticleDetail';
 import CartDrawer from './components/CartDrawer';
 import { CartProvider } from './context/CartContext';
 
@@ -23,6 +25,8 @@ function App() {
           <Route path="/tentang" element={<About />} />
           <Route path="/kontak" element={<Contact />} />
           <Route path="/checkout" element={<Checkout />} />
+          <Route path="/artikel" element={<Articles />} />
+          <Route path="/artikel/:slug" element={<ArticleDetail />} />
           <Route path="/layanan/:id" element={<ServiceDetail />} />
           <Route path="/produk/:id" element={<ProductDetail />} />
         </Routes>

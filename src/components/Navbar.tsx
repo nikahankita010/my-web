@@ -16,6 +16,7 @@ export default function Navbar({ onOpenCart }: NavbarProps) {
     { label: 'Beranda', href: '/', isLink: true },
     { label: 'Layanan Jasa', href: '#layanan', isLink: false },
     { label: 'Jual Produk', href: '#produk', isLink: false },
+    { label: 'Artikel', href: '/artikel', isLink: true },
     { label: 'Tentang', href: '/tentang', isLink: true },
     { label: 'Kontak', href: '/kontak', isLink: true },
   ];
