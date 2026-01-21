@@ -360,4 +360,72 @@ export const servicesData: Record<string, ServiceDetail> = {
     notes: 'Semua konten yang kami tulis adalah original dan unique untuk klien. Kami tidak melakukan plagiarism dan semua sumber di-cite dengan proper. Klien mendapat full copyright dan ownership atas konten yang diproduksi. Kami menjaga deadline dan kualitas dengan profesional.',
     whatsappNumber: '6283119230055',
   },
+  joki_akademik: {
+    id: 'joki_akademik',
+    name: 'Joki Tugas Akademik',
+    tagline: 'Bantuan Tugas Akademik Profesional untuk Kesuksesan Studi',
+    icon: '🎓',
+    description:
+      'Layanan joki tugas akademik kami menyediakan bantuan komprehensif untuk berbagai jenis tugas akademik Anda. Tim akademisi berpengalaman siap membantu dari essay, research paper, hingga project kuliah dengan kualitas terbaik dan tepat waktu.',
+    gradient: 'from-pink-500 to-purple-500',
+    softAccent: 'from-pink-100 to-purple-50',
+    scope: [
+      'Pembuatan essay dan makalah akademik',
+      'Research papers dan jurnal ilmiah',
+      'Proposal dan skripsi',
+      'Project dan tugas kelompok',
+      'Analisis kasus dan case studies',
+      'Presentasi dan slide deck profesional',
+    ],
+    benefits: [
+      'Tugas dikerjakan oleh akademisi berpengalaman',
+      'Kualitas konten yang sesuai standar akademik',
+      'Deadline dijamin terpenuhi tepat waktu',
+      'Revisi unlimited hingga Anda puas',
+      'Plagiarism-free dan original writing',
+      'Konsultasi dan guidance sepanjang proses',
+    ],
+    process: [
+      {
+        step: 1,
+        title: 'Pemesanan & Diskusi',
+        description:
+          'Anda memberikan detail tugas, deadline, dan requirement yang Anda butuhkan.',
+      },
+      {
+        step: 2,
+        title: 'Penugasan Tim',
+        description:
+          'Kami menugaskan akademisi yang ahli di bidang tugas Anda untuk hasil optimal.',
+      },
+      {
+        step: 3,
+        title: 'Research & Planning',
+        description:
+          'Tim melakukan riset mendalam dan menyusun outline sebelum menulis.',
+      },
+      {
+        step: 4,
+        title: 'Pembuatan Tugas',
+        description:
+          'Menulis dan mengembangkan tugas sesuai requirement dan standar akademik.',
+      },
+      {
+        step: 5,
+        title: 'Delivery & Revisi',
+        description:
+          'Tugas diserahkan dan siap untuk direvisi sesuai feedback Anda.',
+      },
+    ],
+    targetAudience: [
+      'Mahasiswa tingkat awal hingga akhir',
+      'Siswa sekolah menengah dengan tugas kompleks',
+      'Pelajar yang memiliki keterbatasan waktu',
+      'Siswa yang memerlukan bantuan akademik',
+      'Pelajar online dan distance learning',
+    ],
+    pricing: 'Rp 75.000 - Rp 500.000 per tugas (tergantung kompleksitas dan deadline)',
+    notes: 'Layanan kami dirancang untuk memberikan bantuan pembelajaran, bukan menggantikan pembelajaran Anda. Kami mendorong Anda untuk mempelajari hasil kerja kami untuk pengembangan skill. Semua tugas dikerjakan dengan integritas akademik dan mengikuti guidelines universitas. Deadline yang sangat ketat (kurang dari 12 jam) mungkin akan mengalami biaya tambahan.',
+    whatsappNumber: '6283119230055',
+  },
 };

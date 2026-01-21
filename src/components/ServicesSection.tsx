@@ -1,5 +1,5 @@
 import { motion } from 'framer-motion';
-import { Palette, Languages, Heart, Database, PenTool } from 'lucide-react';
+import { Palette, Languages, Heart, Database, PenTool, GraduationCap } from 'lucide-react';
 import { Link } from 'react-router-dom';
 
 const services = [
@@ -47,6 +47,15 @@ const services = [
     gradient: 'from-emerald-500 to-teal-600',
     bgGradient: 'from-emerald-50 to-teal-50',
     borderColor: 'border-emerald-200',
+  },
+  {
+    id: 'joki_akademik',
+    icon: GraduationCap,
+    title: 'Joki Tugas Akademik',
+    description: 'Bantuan tugas akademik profesional untuk kesuksesan studi Anda',
+    gradient: 'from-pink-500 to-purple-600',
+    bgGradient: 'from-pink-50 to-purple-50',
+    borderColor: 'border-pink-200',
   },
 ];
 
