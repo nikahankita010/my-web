@@ -51,8 +51,8 @@ const services = [
   {
     id: 'joki_akademik',
     icon: GraduationCap,
-    title: 'Joki Tugas Akademik',
-    description: 'Bantuan tugas akademik profesional untuk kesuksesan studi Anda',
+    title: 'Academic Assistance Service',
+    description: 'Bantuan akademik profesional untuk kesuksesan studi Anda',
     gradient: 'from-pink-500 to-purple-600',
     bgGradient: 'from-pink-50 to-purple-50',
     borderColor: 'border-pink-200',

@@ -362,11 +362,11 @@ export const servicesData: Record<string, ServiceDetail> = {
   },
   joki_akademik: {
     id: 'joki_akademik',
-    name: 'Joki Tugas Akademik',
-    tagline: 'Bantuan Tugas Akademik Profesional untuk Kesuksesan Studi',
+    name: 'Academic Assistance Service',
+    tagline: 'Bantuan Akademik Profesional untuk Kesuksesan Studi Anda',
     icon: '🎓',
     description:
-      'Layanan joki tugas akademik kami menyediakan bantuan komprehensif untuk berbagai jenis tugas akademik Anda. Tim akademisi berpengalaman siap membantu dari essay, research paper, hingga project kuliah dengan kualitas terbaik dan tepat waktu.',
+      'Layanan Academic Assistance Service kami menyediakan bantuan komprehensif untuk berbagai jenis tugas akademik Anda. Tim akademisi berpengalaman siap membantu dari essay, research paper, hingga project kuliah dengan kualitas terbaik dan tepat waktu.',
     gradient: 'from-pink-500 to-purple-500',
     softAccent: 'from-pink-100 to-purple-50',
     scope: [
